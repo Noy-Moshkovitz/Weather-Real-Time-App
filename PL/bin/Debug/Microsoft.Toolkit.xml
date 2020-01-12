@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Toolkit</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Toolkit.Extensions.ArrayExtensions">
+            <summary>
+            Helper extension methods for Arrays.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.Fill``1(``0[0:,0:],``0,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Fills in values of a multi-dimensional rectangular array to specified value based on the position and size given.
+            Ranges given outside the bounds of the array will fill in as much as possible and ignore elements that should appear outside it.
+            Won't throw bounds exception, just won't do work if ranges out of bounds.
+            </summary>
+            <typeparam name="T">Type of array values.</typeparam>
+            <param name="array">Extended type instance.</param>
+            <param name="value">Value to fill with.</param>
+            <param name="row">Row to start on (inclusive, zero-index).</param>
+            <param name="col">Column to start on (inclusive, zero-index).</param>
+            <param name="width">Positive Width of area to fill.</param>
+            <param name="height">Positive Height of area to fill.</param>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.GetRow``1(``0[0:,0:],System.Int32)">
+            <summary>
+            Retrieve a row as an enumerable from a multi-dimensional rectangular array.
+            </summary>
+            <typeparam name="T">Type of rectangular array.</typeparam>
+            <param name="rectarray">Extended type instance.</param>
+            <param name="row">Row record to retrieve, 0-based index.</param>
+            <returns>Yielded Enumerable of results.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.GetColumn``1(``0[0:,0:],System.Int32)">
+            <summary>
+            Retrieve a column from a multi-dimensional rectangular array.
+            </summary>
+            <typeparam name="T">Type of rectangular array.</typeparam>
+            <param name="rectarray">Extended type instance.</param>
+            <param name="column">Column record to retrieve, 0-based index.</param>
+            <returns>Yielded Enumerable of results.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.GetColumn``1(``0[][],System.Int32)">
+            <summary>
+            Retrieve a column from a multi-dimensional jagged array.
+            Will throw an exception if the column is out of bounds, and return default in places where there are no elements from inner arrays.
+            Note: No equivalent GetRow method, as you can use array[row] to retrieve.
+            </summary>
+            <typeparam name="T">Type of jagged array.</typeparam>
+            <param name="rectarray">Extended type instance.</param>
+            <param name="column">Column record to retrieve, 0-based index.</param>
+            <returns>Yielded Enumerable of column elements for given column and default values for smaller inner arrays.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.ToArrayString``1(``0[])">
+            <summary>
+            Joins the array together in a simple string representation.
+            </summary>
+            <typeparam name="T">Type of array.</typeparam>
+            <param name="array">Extended type instance.</param>
+            <returns>String representation of array.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.ToArrayString``1(``0[][])">
+            <summary>
+            Joins the multi-dimensional array together in a string representation.
+            </summary>
+            <typeparam name="T">Type of jagged array.</typeparam>
+            <param name="mdarray">Extended type instance.</param>
+            <returns>String representation of array.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.ArrayExtensions.ToArrayString``1(``0[0:,0:])">
+            <summary>
+            Joins the rectangular-array together in a string representation.
+            </summary>
+            <typeparam name="T">Type of rectangular array.</typeparam>
+            <param name="rectarray">Extended type instance.</param>
+            <returns>String representation of array.</returns>
+        </member>
+        <member name="T:Microsoft.Toolkit.Extensions.StringExtensions">
+            <summary>
+            All common string extensions should go here
+            </summary>
+        </member>
+        <member name="F:Microsoft.Toolkit.Extensions.StringExtensions.RemoveHtmlTagsRegex">
+            <summary>
+            Regular expression of HTML tags to remove.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Toolkit.Extensions.StringExtensions.RemoveHtmlCommentsRegex">
+            <summary>
+            Regular expression for removing comments.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Toolkit.Extensions.StringExtensions.RemoveHtmlScriptsRegex">
+            <summary>
+            Regular expression for removing scripts.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Toolkit.Extensions.StringExtensions.RemoveHtmlStylesRegex">
+            <summary>
+            Regular expression for removing styles.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.IsEmail(System.String)">
+            <summary>
+            Returns whether said string is a valid email or not.
+            Uses general Email Regex (RFC 5322 Official Standard) from emailregex.com
+            </summary>
+            <param name="str">string value.</param>
+            <returns><c>true</c> for valid email.<c>false</c> otherwise</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.IsDecimal(System.String)">
+            <summary>
+            Returns whether said string is a valid decimal number or not.
+            </summary>
+            <returns><c>true</c> for valid decimal number.<c>false</c> otherwise</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.IsNumeric(System.String)">
+            <summary>
+            Returns whether said string is a valid integer or not.
+            </summary>
+            <param name="str">string value.</param>
+            <returns><c>true</c> for valid integer.<c>false</c> otherwise</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.IsPhoneNumber(System.String)">
+            <summary>
+            Returns whether said string is a valid phonenumber or not.
+            </summary>
+            <param name="str">string value.</param>
+            <returns><c>true</c> for valid phonenumber.<c>false</c> otherwise</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.IsCharacterString(System.String)">
+            <summary>
+            Returns whether said string contains only letters or not.
+            </summary>
+            <param name="str">string value.</param>
+            <returns><c>true</c> for valid Character.<c>false</c> otherwise</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.ToSafeString(System.Object)">
+            <summary>
+            Converts object into string.
+            </summary>
+            <param name="value">Object value.</param>
+            <returns>Returns string value.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.DecodeHtml(System.String)">
+            <summary>
+            Decode HTML string.
+            </summary>
+            <param name="htmlText">HTML string.</param>
+            <returns>Returns decoded HTML string.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.FixHtml(System.String)">
+            <summary>
+            Applies regular expressions to string of HTML to remove comments, scripts, styles.
+            </summary>
+            <param name="html">HTML string to fix</param>
+            <returns>Fixed HTML string</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.Truncate(System.String,System.Int32)">
+            <summary>
+            Trims and Truncates the specified string to the specified length.
+            </summary>
+            <param name="value">The string to be truncated.</param>
+            <param name="length">The maximum length.</param>
+            <returns>Truncated string.</returns>
+        </member>
+        <member name="M:Microsoft.Toolkit.Extensions.StringExtensions.Truncate(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Trims and Truncates the specified string to the specified length.
+            </summary>
+            <param name="value">The string to be truncated.</param>
+            <param name="length">The maximum length.</param>
+            <param name="ellipsis">if set to <c>true</c> add a text ellipsis.</param>
+            <returns>Truncated string.</returns>
+        </member>
+        <member name="T:Microsoft.Toolkit.Collections.IIncrementalSource`1">
+            <summary>
+            This interface represents a data source whose items can be loaded incrementally.
+            </summary>
+            <typeparam name="TSource">Type of collection element.</typeparam>
+        </member>
+        <member name="M:Microsoft.Toolkit.Collections.IIncrementalSource`1.GetPagedItemsAsync(System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            This method is invoked everytime the view need to show more items. Retrieves items based on <paramref name="pageIndex"/> and <paramref name="pageSize"/> arguments.
+            </summary>
+            <param name="pageIndex">
+            The zero-based index of the page that corresponds to the items to retrieve.
+            </param>
+            <param name="pageSize">
+            The number of <typeparamref name="TSource"/> items to retrieve for the specified <paramref name="pageIndex"/>.
+            </param>
+            <param name="cancellationToken">
+            Used to propagate notification that operation should be canceled.
+            </param>
+            <returns>
+            Returns a collection of <typeparamref name="TSource"/>.
+            </returns>
+        </member>
+    </members>
+</doc>

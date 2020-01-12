@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="PL.View.Map"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="450" Margin="0,0,0,-0.4" VerticalAlignment="Top" Width="800" Source="/PL;component/Images/israelmap2png.png"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="575,59,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="45"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="242,213,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="45"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="442,122,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="45"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="492,81,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="45"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="335,122,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="45"/>
+        <Ellipse Fill="#FFF0F0F0" HorizontalAlignment="Left" Height="56" Margin="366,162,0,0" Stroke="#FFF0F0F0" VerticalAlignment="Top" Width="52"/>
+
+
+
+        <Image Name="HaifaImg" Source="{Binding Icon_Haifa}" HorizontalAlignment="Left" Height="36" Margin="583,18,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="HaifaDeg" Content="{Binding Temp_Haifa, Mode=TwoWay}" HorizontalAlignment="Left" Margin="620,28,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <Image Name="TiberiasImg" Source="{Binding Icon_Tiberias}" HorizontalAlignment="Left" Height="36" Margin="625,69,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="TiberiasDeg" Content="{Binding Temp_Tiberias, Mode=TwoWay}" HorizontalAlignment="Left" Margin="662,79,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <Image Name="Kiryat_ShmonaImg" Source="{Binding Icon_Kiryat_Shmona}" HorizontalAlignment="Left" Height="36" Margin="685,22,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="Kiryat_ShmonaDeg" Content="{Binding Temp_Kiryat_Shmona, Mode=TwoWay}" HorizontalAlignment="Left" Margin="726,32,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <Image Name="Tel_AvivImg" Source="{Binding Icon_Tel_Aviv}" HorizontalAlignment="Left" Height="36" Margin="318,79,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="Tel_AvivDeg" Content="{Binding Temp_Tel_Aviv, Mode=TwoWay}" HorizontalAlignment="Left" Margin="355,91,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <Image Name="Beer_ShevaImg" Source="{Binding Icon_Beer_Sheva}" HorizontalAlignment="Left" Height="36" Margin="268,192,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="Beer_ShevaDeg" Content="{Binding Temp_Beer_Sheva, Mode=TwoWay}" HorizontalAlignment="Left" Margin="305,202,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <Image Name="JerusalemImg" Source="{Binding Icon_Jerusalem}" HorizontalAlignment="Left" Height="36" Margin="395,126,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="JerusalemDeg" Content="{Binding Temp_Jerusalem, Mode=TwoWay}" HorizontalAlignment="Left" Margin="442,135,0,0" VerticalAlignment="Top" Width="59"/>
+        <Button Name="btn"  Content="Jerusalem" Command="{Binding NavigateCommandJerusalem}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="392,166,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" BorderBrush="{x:Null}" Background="{x:Null}"/>
+
+        <Image Name="EilatImg" Source="{Binding Icon_Eilat}" HorizontalAlignment="Left" Height="36" Margin="69,300,0,0" VerticalAlignment="Top" Width="37"/>
+        <Label Name="EilatDeg" Content="{Binding Temp_Eilat, Mode=TwoWay}" HorizontalAlignment="Left" Margin="111,310,0,0" VerticalAlignment="Top" Width="59"/>
+
+        <local:smallWeekly x:Name="smallWeekly" DataContext="{Binding UserControl}"  Visibility="Visible" HorizontalAlignment="Left" Height="176" Margin="528,236,0,0" VerticalAlignment="Top" Width="257" />
+
+        <Button Content="Eilat" Command="{Binding NavigateCommandEilat}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="55,341,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button Content="Beer Sheva" Command="{Binding NavigateCommandBeer_Sheva}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="268,228,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" BorderBrush="{x:Null}" FontWeight="Bold"/>
+        <Button Content="Tel Aviv" Command="{Binding NavigateCommandTel_Aviv}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="315,115,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" BorderBrush="{x:Null}" FontWeight="Bold"/>
+        <Button Content="Tiberias" Command="{Binding NavigateCommandTiberias}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="622,100,0,0" VerticalAlignment="Top" Width="75" Background="{x:Null}" BorderBrush="{x:Null}" FontWeight="Bold"/>
+        <Button Content="Haifa" Command="{Binding NavigateCommandHaifa}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="583,54,0,0" VerticalAlignment="Top" Width="75" BorderBrush="{x:Null}" Background="{x:Null}" FontWeight="Bold"/>
+        <Button Content="Kiryat Shmona" Command="{Binding NavigateCommandKiryat_Shmona}" CommandParameter="{Binding ElementName=smallWeekly}" HorizontalAlignment="Left" Margin="681,61,0,0" VerticalAlignment="Top" Width="89" BorderBrush="{x:Null}" FontWeight="Bold" Background="{x:Null}"/>
+    </Grid>
+</UserControl>

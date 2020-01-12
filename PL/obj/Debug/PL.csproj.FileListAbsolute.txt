@@ -1,0 +1,386 @@
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.Cache
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.g.cs
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.baml
+C:\Users\Eyal\Downloads\WeatherApp_7109\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.AppContext.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Console.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\UserControl1.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\NEW\WeatherApp_7109\PL\obj\Debug\View\UserControl1.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.AppContext.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Console.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\UserControl1.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\UserControl1.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\perfectGraph 3d\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\UserControl1.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.AppContext.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Console.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\UserControl1.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\BE.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\BL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\BE.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\BL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\specialTabContrrol\WeatherApp_7109\PL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\PL.exe.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BE.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.AppContext.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Console.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\WPFToolkit.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BE.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Microsoft.Toolkit.Parsers.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Chart.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.PropertyGrid.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Shared.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.MVVM.WPF.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\Syncfusion.Tools.Wpf.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Current.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Map.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\UserControl1.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Weekly.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Current.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Map.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\smallWeekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\UserControl1.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\Weekly.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.g.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.exe
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\PL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\WeeklyChart.g.cs
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\obj\Debug\View\WeeklyChart.baml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BE.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\BL.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\PL\bin\Debug\EntityFramework.SqlServer.xml

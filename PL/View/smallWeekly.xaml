@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="PL.View.smallWeekly"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL.View"
+             mc:Ignorable="d" Width="223.09" Height="167.629">
+    <Grid Margin="-1,0,0.4,0.2" UseLayoutRounding="True" ClipToBounds="True" SnapsToDevicePixels="True">
+        <Grid.Background>
+            <ImageBrush ImageSource="/PL;component/Images/2f5d2087112f83343a020483f1e80b1f.jpg"/>
+        </Grid.Background>
+        <Label Name="lbDay" Content="{Binding Day_0, Mode=TwoWay}" HorizontalAlignment="Left" Margin="56,30,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp" Content="{Binding Temp_0, Mode=TwoWay}" HorizontalAlignment="Left" Margin="56,54,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay2" Content="{Binding Day_1, Mode=TwoWay}" HorizontalAlignment="Left" Margin="123,30,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp2" Content="{Binding Temp_1, Mode=TwoWay}" HorizontalAlignment="Left" Margin="123,54,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay3" Content="{Binding Day_2, Mode=TwoWay}" HorizontalAlignment="Left" Margin="186,30,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp3" Content="{Binding Temp_2, Mode=TwoWay}" HorizontalAlignment="Left" Margin="186,54,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay4" Content="{Binding Day_3, Mode=TwoWay}" HorizontalAlignment="Left" Margin="0,103,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp4" Content="{Binding Temp_3, Mode=TwoWay}" HorizontalAlignment="Left" Margin="0,127,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay5" Content="{Binding Day_4, Mode=TwoWay}" HorizontalAlignment="Left" Margin="64,103,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp5" Content="{Binding Temp_4, Mode=TwoWay}" HorizontalAlignment="Left" Margin="64,127,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay6" Content="{Binding Day_5, Mode=TwoWay}" HorizontalAlignment="Left" Margin="131,103,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp6" Content="{Binding Temp_5, Mode=TwoWay}" HorizontalAlignment="Left" Margin="131,127,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Label Name="lbDay7" Content="{Binding Day_6, Mode=TwoWay}" HorizontalAlignment="Left" Margin="193,103,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+        <Label Name="lbTemp7" Content="{Binding Temp_6, Mode=TwoWay}" HorizontalAlignment="Left" Margin="193,127,0,0" VerticalAlignment="Top" FontFamily="Arial Black"/>
+
+        <Image Name="iconCity" Source="{Binding Icon_0}" HorizontalAlignment="Left" Height="60" Margin="-2,38,0,0" VerticalAlignment="Top" Width="53"/>
+        <Label Name="lbCityNme"  Content="{Binding CityN, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-2,0,0,0" FontSize="18" Foreground="#FFEB651A" FontWeight="Bold">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,35 @@
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\BL.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\BL.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\obj\Debug\BL.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\obj\Debug\BL.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\BE.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\DAL.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\EntityFramework.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\BE.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\DAL.pdb
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\DAL.dll.config
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\EntityFramework.xml
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eyal\Downloads\WeatherApp_7109\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BE.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BE.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\DAL.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\obj\Debug\BL.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\obj\Debug\BL.pdb
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BL.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\BE.dll.config
+C:\Users\DELL\Desktop\Academic\3rd year 2nd sem\windows project\WINDOWSPROJECT\WeatherApp_7109\BL\bin\Debug\EntityFramework.SqlServer.xml

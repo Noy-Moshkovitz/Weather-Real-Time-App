@@ -1,0 +1,31 @@
+﻿<Window x:Class="PL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:view="clr-namespace:PL.MainWindowViewModel1"
+        xmlns:view1="clr-namespace:PL.View"
+               mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="1000">
+    <Grid>
+        <Grid Height="450" Width="800">
+            <TabControl x:Name="tb" HorizontalAlignment="Left" Height="450" Width="800" Background="#FFFDF7F2" BorderBrush="#FF294CC5">
+                <TabItem x:Name="CurrentTab" Header="Current Weather" Foreground="#FFDA5027" BorderBrush="#FF111111" FontWeight="Bold" >
+                    <view1:Current Height="Auto" Width="Auto" DataContext="{Binding CurControl}" Margin="10,0,2.4,0.6" />
+                </TabItem>
+                <TabItem x:Name="WeeklyTab" Header="Weekly Weather" Foreground="#FFDA5027" BorderBrush="#FF161617" FontWeight="Bold" >
+                    <view1:Weekly Width="Auto" DataContext="{Binding WeeklyControl}" Margin="10,0,-2.6,-0.4"/>
+                </TabItem>
+                <TabItem x:Name="MapTab" Header="Weather Map" BorderBrush="#FF0A0A0A" Foreground="#FFDA5027" FontWeight="Bold"  >
+                    <view1:Map DataContext="{Binding MapControl}" Margin="0,0,7.4,-0.4"/>
+                </TabItem>
+             <TabItem x:Name="ChartTab" Header="Chart" Foreground="#FFDA5000" BorderBrush="#FF0F0F0F" FontWeight="Bold"  > 
+                    <view1:WeeklyChart DataContext="{Binding ChartControl}" Margin="0,0,7.4,-0.4"/>
+                </TabItem>
+            </TabControl>
+
+        </Grid>
+    </Grid>
+</Window>
